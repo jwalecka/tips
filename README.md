@@ -14,7 +14,7 @@ Notes: decimal keypad may not work for certain layouts
 
 Walkthrough of all the user stories
 
-<a href="http://imgur.com/LMzkUsS"><img src="http://i.imgur.com/LMzkUsS.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/AqDSZC7"><img src="http://i.imgur.com/AqDSZC7.gif" title="source: imgur.com" /></a>
 
 
 
